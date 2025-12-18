@@ -1,0 +1,6 @@
+978-3-16-148410-0,Java Programming Guide,John Smith,Programming,Available
+978-0-262-03384-8,Introduction to Algorithms,Thomas Cormen,Computer Science,Available
+978-0-13-468599-1,Effective Java,Joshua Bloch,Programming,Available
+978-1-56619-909-4,Clean Code,Robert C. Martin,Programming,Available
+978-0-596-52068-7,Head First Java,Kathy Sierra,Programming,Available
+978-0-201-63361-0,Design Patterns,Erich Gamma,Software Engineering,Available
